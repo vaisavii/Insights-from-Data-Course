@@ -13,3 +13,7 @@ The project consists of two main components: clustering and classification.
 # Exploring the Vaalikone Dataset: Cluster Analysis
 In this project, I explored and analyzed the Candidate Selector dataset (vaalikone_questions_all.csv) with the aim of clustering candidates based on their responses. The goal was to investigate whether these clusters align with political parties or other factors present in the Vaalikone Profiles (vaalikone_profiles_all.csv).
 
+# Data Exploration: the mpg dataset
+In this project, I explored the "mpg" dataset, which is readily available upon loading the ggplot2
+package in R. This dataset comprises 234 observations of various car models, each accompanied by
+multiple attributes, including fuel economy, engine type, and drive type. The primary objective of this analysis is to uncover insights into the factors that influence fuel efficiency.
