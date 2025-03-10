@@ -1,6 +1,6 @@
 # Insights from Data Course Projects
 
-This repository contains projects I have completed during the "Insight from Data" course. The course involved data analysis using R. It included exploring and analyzing real-life-like datasets. Topics covered in the course included clustering, data cleaning and visualization among others. Each folder contains a PDF report where I detail the entire process of the project, as well as the R script used.
+This repository contains projects I have completed during the "Insight from Data" course in University of Eastern Finland. The course involved data analysis using R. It included exploring and analyzing real-life-like datasets. Topics covered in the course included clustering, data cleaning and visualization among others. Each folder contains a PDF report where I detail the entire process of the project, as well as the R script used.
 
 # Exploring the Pima Indians Dataset: Clustering and classification
 In this project I explored and analyzed the Pima Indians Diabetes Dataset. The dataset
